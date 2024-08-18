@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/reactsql?serverTimezone=UTC
+    password: root
+    username: zmjxx2003121
+    driver-class-name: com.mysql.cj.jdbc.Driver
